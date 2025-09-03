@@ -3,12 +3,28 @@
     <title>Den patriotů</title>
     <link href="https://denpatriotu.sedlcanky.cz/feed.xml" rel="self" />
     <link href="https://denpatriotu.sedlcanky.cz" />
-    <updated>2024-12-20T20:53:43+01:00</updated>
+    <updated>2025-09-03T08:45:13+02:00</updated>
     <author>
         <name>Tomáš Jeřábek</name>
     </author>
     <id>https://denpatriotu.sedlcanky.cz</id>
 
+    <entry>
+        <title>Den patriotů 2025</title>
+        <author>
+            <name>Tomáš Jeřábek</name>
+        </author>
+        <link href="https://denpatriotu.sedlcanky.cz/2025/"/>
+        <id>https://denpatriotu.sedlcanky.cz/2025/</id>
+
+        <updated>2025-09-02T23:48:06+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://denpatriotu.sedlcanky.cz/media/posts/6/den_patriotu_2025.png" alt="" width="3368" height="4764" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://denpatriotu.sedlcanky.cz/media/posts/6/responsive/den_patriotu_2025-xs.png 300w ,https://denpatriotu.sedlcanky.cz/media/posts/6/responsive/den_patriotu_2025-sm.png 480w ,https://denpatriotu.sedlcanky.cz/media/posts/6/responsive/den_patriotu_2025-md.png 768w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Den patriotů 2024 zrušen</title>
         <author>
