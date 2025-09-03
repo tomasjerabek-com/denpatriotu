@@ -3,7 +3,7 @@
     <title>Den patriotů</title>
     <link href="https://denpatriotu.sedlcanky.cz/feed.xml" rel="self" />
     <link href="https://denpatriotu.sedlcanky.cz" />
-    <updated>2025-09-03T08:45:13+02:00</updated>
+    <updated>2025-09-03T09:04:00+02:00</updated>
     <author>
         <name>Tomáš Jeřábek</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://denpatriotu.sedlcanky.cz/2025/"/>
         <id>https://denpatriotu.sedlcanky.cz/2025/</id>
+        <media:content url="https://denpatriotu.sedlcanky.cz/media/posts/6/DSCF3315.jpg" medium="image" />
 
         <updated>2025-09-02T23:48:06+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://denpatriotu.sedlcanky.cz/media/posts/6/DSCF3315.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://denpatriotu.sedlcanky.cz/media/posts/6/den_patriotu_2025.png" alt="" width="3368" height="4764" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://denpatriotu.sedlcanky.cz/media/posts/6/responsive/den_patriotu_2025-xs.png 300w ,https://denpatriotu.sedlcanky.cz/media/posts/6/responsive/den_patriotu_2025-sm.png 480w ,https://denpatriotu.sedlcanky.cz/media/posts/6/responsive/den_patriotu_2025-md.png 768w"></figure>
             ]]>
         </content>
